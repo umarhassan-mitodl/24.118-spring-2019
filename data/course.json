@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2019",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Metaphysics"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Logic"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "legacy_uid": "be6ee66a-9d58-f2dc-48dd-94d414aa3989",
+  "instructors": {
+    "content": [
+      "e704f6b4-2899-db3c-b835-728a6cc18e95"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c582410d-c333-b697-f175-cdf5b4ed2bc2",
+    "website": "24-118-paradox-and-infinity-spring-2019"
+  },
+  "course_title": "Paradox and Infinity",
+  "course_description": "This course presents highlights of the more technical side of philosophy. It studies a cluster of puzzles, paradoxes, and intellectual wonders\u00a0\u2014 from the higher infinite to G\u00f6del's Theorem\u00a0\u2014 and discusses their philosophical implications.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.118",
+  "course_image_thumbnail": {
+    "content": "1ec21dd4-4c31-a679-fdef-88a6578af81e",
+    "website": "24-118-paradox-and-infinity-spring-2019"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "c324edb9-76be-400c-a930-bda0d3f1afd1",
+  "site_short_id": "24.118-spring-2019",
+  "site_url_path": "courses/24-118-paradox-and-infinity-spring-2019",
+  "title": "Course Metadata"
+}
